@@ -1,4 +1,5 @@
-site_name: postgreSQL Documentation
+site_name: postgreSQL Docs
+site_description: 'PostgreSQL 문서화 한국어 번역 프로젝트'
 
 theme:
   name: material
