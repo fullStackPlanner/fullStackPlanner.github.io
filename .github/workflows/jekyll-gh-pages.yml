@@ -6,10 +6,10 @@
     # A file containing a list of required packages, e.g., 'requirements.txt'.
     requirements_file: # optional, default is 
     # Newline-separated list of config files to build.
-e.g.,
-  config/en/mkdocs.yml
-  config/zh-Hans/mkdocs.yml
-If you don't provide one, mkdocs.yml in the root directory will be used.
-    config_files: # optional, default is 
-  pgsql/mkdocs.yml
-  ztoos/mkdocs.yml
+#e.g.,
+ # config/en/mkdocs.yml
+ # config/zh-Hans/mkdocs.yml
+# If you don't provide one, mkdocs.yml in the root directory will be used.
+    config_files: pgsql/mkdocs.yml
+    # optional, default is 
+#  ztoos/mkdocs.yml
