@@ -1,4 +1,4 @@
-            - name: MkDocs Page Publisher
+- name: MkDocs Page Publisher
   # You may pin to the exact commit or the version.
   # uses: Kjuly/mkdocs-page-publisher@67ebeb373367083b3f3d67f31b26a48594496468
   uses: Kjuly/mkdocs-page-publisher@1.4.1
@@ -11,3 +11,5 @@ e.g.,
   config/zh-Hans/mkdocs.yml
 If you don't provide one, mkdocs.yml in the root directory will be used.
     config_files: # optional, default is 
+  pgsql/mkdocs.yml
+  ztoos/mkdocs.yml
