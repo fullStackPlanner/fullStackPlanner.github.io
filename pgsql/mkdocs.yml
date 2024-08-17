@@ -1,0 +1,4 @@
+site_name: postgreSQL Documentation
+
+theme:
+  name: material
